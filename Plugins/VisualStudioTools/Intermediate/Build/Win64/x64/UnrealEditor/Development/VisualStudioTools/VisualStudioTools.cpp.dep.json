@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dreaming\\documents\\unreal projects\\arena\\plugins\\visualstudiotools\\source\\visualstudiotools\\private\\visualstudiotools.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dreaming\\documents\\unreal projects\\arena\\intermediate\\build\\win64\\x64\\arenaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dreaming\\documents\\unreal projects\\arena\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\definitions.visualstudiotools.h",
+            "c:\\users\\dreaming\\documents\\unreal projects\\arena\\plugins\\visualstudiotools\\source\\visualstudiotools\\public\\visualstudiotools.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

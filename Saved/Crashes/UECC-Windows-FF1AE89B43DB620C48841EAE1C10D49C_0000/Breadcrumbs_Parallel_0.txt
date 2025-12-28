@@ -1,0 +1,9 @@
+Breadcrumbs 'Parallel'
+ - InjectTranslucencyLightingVolume(View=0)
+ - InjectTranslucencyLightingVolume
+ - DirectLighting
+ - Lights
+ - RenderDeferredLighting
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 18513

@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaProjectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\ArenaProjectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\AttributeComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\AttributeComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\AttributeComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\AttributeComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\ArenaCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaPlayerState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\ArenaPlayerState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameStateBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\ArenaGameStateBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\ArenaCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameStateBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\ArenaGameStateBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameMode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\ArenaGameMode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaPlayerState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\ArenaPlayerState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameMode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB61AF58-BCD0-36B1-907A-ABD31941BFA5}|Intermediate\\ProjectFiles\\Arena.vcxproj|solutionrelative:Source\\Arena\\ArenaGameMode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArenaProjectile.cpp",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaProjectile.cpp",
+              "RelativeDocumentMoniker": "Source\\Arena\\ArenaProjectile.cpp",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaProjectile.cpp",
+              "RelativeToolTip": "Source\\Arena\\ArenaProjectile.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T07:32:38.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArenaCharacter.h",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaCharacter.h",
+              "RelativeDocumentMoniker": "Source\\Arena\\ArenaCharacter.h",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaCharacter.h",
+              "RelativeToolTip": "Source\\Arena\\ArenaCharacter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-26T07:12:31.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArenaCharacter.cpp",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaCharacter.cpp",
+              "RelativeDocumentMoniker": "Source\\Arena\\ArenaCharacter.cpp",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaCharacter.cpp",
+              "RelativeToolTip": "Source\\Arena\\ArenaCharacter.cpp",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAH4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T07:12:31.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArenaGameStateBase.h",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameStateBase.h",
+              "RelativeDocumentMoniker": "Source\\Arena\\ArenaGameStateBase.h",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameStateBase.h",
+              "RelativeToolTip": "Source\\Arena\\ArenaGameStateBase.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-26T04:24:51.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArenaGameStateBase.cpp",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameStateBase.cpp",
+              "RelativeDocumentMoniker": "Source\\Arena\\ArenaGameStateBase.cpp",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameStateBase.cpp",
+              "RelativeToolTip": "Source\\Arena\\ArenaGameStateBase.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T04:24:50.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArenaPlayerState.cpp",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaPlayerState.cpp",
+              "RelativeDocumentMoniker": "Source\\Arena\\ArenaPlayerState.cpp",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaPlayerState.cpp",
+              "RelativeToolTip": "Source\\Arena\\ArenaPlayerState.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T04:22:33.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArenaPlayerState.h",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaPlayerState.h",
+              "RelativeDocumentMoniker": "Source\\Arena\\ArenaPlayerState.h",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaPlayerState.h",
+              "RelativeToolTip": "Source\\Arena\\ArenaPlayerState.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-26T04:20:30.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArenaGameMode.h",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameMode.h",
+              "RelativeDocumentMoniker": "Source\\Arena\\ArenaGameMode.h",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameMode.h",
+              "RelativeToolTip": "Source\\Arena\\ArenaGameMode.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-26T04:13:12.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArenaGameMode.cpp",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameMode.cpp",
+              "RelativeDocumentMoniker": "Source\\Arena\\ArenaGameMode.cpp",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\ArenaGameMode.cpp",
+              "RelativeToolTip": "Source\\Arena\\ArenaGameMode.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAE0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T04:12:47.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttributeComponent.cpp",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\AttributeComponent.cpp",
+              "RelativeDocumentMoniker": "Source\\Arena\\AttributeComponent.cpp",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\AttributeComponent.cpp",
+              "RelativeToolTip": "Source\\Arena\\AttributeComponent.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T03:15:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttributeComponent.h",
+              "DocumentMoniker": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\AttributeComponent.h",
+              "RelativeDocumentMoniker": "Source\\Arena\\AttributeComponent.h",
+              "ToolTip": "C:\\Users\\Dreaming\\Documents\\Unreal Projects\\Arena\\Source\\Arena\\AttributeComponent.h",
+              "RelativeToolTip": "Source\\Arena\\AttributeComponent.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-26T01:28:18.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

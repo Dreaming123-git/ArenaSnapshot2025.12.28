@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dreaming\\documents\\unreal projects\\arena\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudioblueprintdebuggerhelper\\module.visualstudioblueprintdebuggerhelper.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dreaming\\documents\\unreal projects\\arena\\intermediate\\build\\win64\\x64\\arenaeditor\\development\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dreaming\\documents\\unreal projects\\arena\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudioblueprintdebuggerhelper\\definitions.visualstudioblueprintdebuggerhelper.h",
+            "c:\\users\\dreaming\\documents\\unreal projects\\arena\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudioblueprintdebuggerhelper\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
